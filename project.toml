@@ -1,11 +1,11 @@
-name = "StructuralEquationModels.jl Binder Repo"
-uuid = "11121111-2222-3323-4414-555555555555"
-authors = ["Andreas Brandmaier"]
+name = "SEMBinder"
+uuid = "11111111-2222-3333-4444-555555555555"
+authors = ["Your Name"]
 version = "0.1.0"
 
 [deps]
-StructuralEquationModels = "1b5e7cc3-1a8b-4b7a-8c5f-9c9e5f3e0c5b"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+StructuralEquationModels = "383ca8c5-e4ff-4104-b0a9-f7b279deed53"
 
 [compat]
 julia = "1.10"
